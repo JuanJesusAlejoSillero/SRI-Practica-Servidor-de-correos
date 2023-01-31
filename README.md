@@ -3,7 +3,6 @@
 **Tabla de contenidos:**
 
 - [**Práctica: Servidor de correos**](#práctica-servidor-de-correos)
-  - [**Disclaimer**](#disclaimer)
   - [**¿Qué hay que hacer?**](#qué-hay-que-hacer)
   - [**Gestión de correos desde el servidor**](#gestión-de-correos-desde-el-servidor)
   - [**Uso de alias y redirecciones**](#uso-de-alias-y-redirecciones)
@@ -25,10 +24,6 @@
     - [**Tarea 10 (No obligatoria)**](#tarea-10-no-obligatoria)
     - [**Tarea 12 (No obligatoria)**](#tarea-12-no-obligatoria)
     - [**Tarea 13**](#tarea-13)
-
-## **Disclaimer**
-
-Este archivo ha sido generado a partir de mis propios apuntes en markdown y puede que el color de letra con el que se muestre sea diferente o, que existan cortes en los bloques de código entre páginas. Estos errores no existen en el documento original. Si desea consultar el documento original en markdown estaré encantado de adjuntarlo.
 
 ---
 
